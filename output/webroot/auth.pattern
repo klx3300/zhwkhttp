@@ -1,0 +1,12 @@
+<>
+INLINE
+/passed.html
+(user=admin;pass=test)
+<>
+INLINE
+/passed_guest.html
+(user=guest)
+<>
+REDIRECT
+/failed.html
+()
